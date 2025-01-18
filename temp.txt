@@ -1,0 +1,33 @@
+
+    <!-- Faculty Detail Section Start -->
+    <div class="container py-5">
+        <div class="row">
+            <!-- Faculty Image -->
+            <div class="col-lg-4 text-center mb-4">
+                <img src="img/team-1.jpg" alt="Faculty Image" class="img-fluid rounded shadow-lg">
+            </div>
+            <!-- Faculty Information -->
+            <div class="col-lg-8">
+                <h3 class="text-primary">John Doe</h3>
+                <h5 class="text-muted">Web Development Specialist</h5>
+                <p class="mt-3">
+                    John Doe is a passionate web developer with 10 years of experience in designing and maintaining 
+                    scalable web applications. He specializes in front-end and back-end development and is known for 
+                    his innovative approach to teaching.
+                </p>
+                <h5 class="mt-4">Qualifications</h5>
+                <ul>
+                    <li>M.Sc. in Computer Science</li>
+                    <li>Bachelor’s in Information Technology</li>
+                    <li>Certified Web Developer (HTML, CSS, JavaScript, React)</li>
+                </ul>
+                <h5 class="mt-4">Specialization</h5>
+                <ul>
+                    <li>Web Development</li>
+                    <li>Frontend Frameworks</li>
+                    <li>Responsive Design</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- Faculty Detail Section End -->
